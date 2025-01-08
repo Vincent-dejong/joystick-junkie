@@ -11,3 +11,6 @@ Things I would improve upon if this project were to be continued:
 - More extensive code coverage in the tests and widget testing.
 - Localization for multiple languages.
 - Improved theming with layout system for dimensions (no more repeated padding and margin values).
+
+## Screenshots
+![IMG_0595](https://github.com/user-attachments/assets/6594097c-75a8-4df8-a09d-9064d4b0668a)
