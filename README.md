@@ -13,4 +13,5 @@ Things I would improve upon if this project were to be continued:
 - Improved theming with layout system for dimensions (no more repeated padding and margin values).
 
 ## Screenshots
-![IMG_0595](https://github.com/user-attachments/assets/6594097c-75a8-4df8-a09d-9064d4b0668a)
+![joystick_junkie_screenshots](https://github.com/user-attachments/assets/70cf103c-4307-43dc-8262-089d968df646)
+
